@@ -2,3 +2,4 @@ name = input("What is your name? ")
 age = input("How old are you? ")
 
 print("Hello " + name + " you are " + age + " years old!")
+#this was originally print("Hello", name, "you are", age, "years old!") but decided to go with Nian's changes for a cleaner code!
